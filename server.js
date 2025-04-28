@@ -21,8 +21,8 @@ app.set('view engine','hbs');
 
 
 const user = {
-    username: "haris",
-    password: "haris123"
+    username: "suha",
+    password: "suha123"
 }
 
 app.get('/',(req,res)=>{
